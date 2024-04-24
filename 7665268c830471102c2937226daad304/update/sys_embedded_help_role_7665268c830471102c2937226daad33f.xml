@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_zllc_project_m_0.meeting managers" name="x_zllc_project_m_0.meeting managers">fa65268c830471102c2937226daad33c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Steve@zendicoded.com</sys_created_by>
+        <sys_created_on>2023-07-10 20:19:15</sys_created_on>
+        <sys_id>7665268c830471102c2937226daad33f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fa65268c830471102c2937226daad33c</sys_name>
+        <sys_package display_value="Project Management Meeting Solutions" source="x_zllc_project_m_0">7665268c830471102c2937226daad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Management Meeting Solutions">7665268c830471102c2937226daad304</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7665268c830471102c2937226daad33f</sys_update_name>
+        <sys_updated_by>Steve@zendicoded.com</sys_updated_by>
+        <sys_updated_on>2023-07-10 20:19:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
